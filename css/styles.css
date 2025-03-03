@@ -40,10 +40,10 @@ body {
 }
 
 .contacts {
+  color: #434455;
   font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 
 .hero {
@@ -101,6 +101,10 @@ body {
   background-color: #f4f4fd;
 }
 
+.background-team {
+  background-color: #ffffff;
+}
+
 .team-section-name {
   line-height: 1.11;
   text-transform: capitalize;
@@ -136,4 +140,8 @@ body {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+}
+
+.logo-name-footer {
+  color: #f4f4fd;
 }
