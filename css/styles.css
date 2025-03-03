@@ -36,12 +36,15 @@ body {
   color: #404bbf;
 }
 
-.contact,
-.address-link {
+.contact {
   color: #434455;
   font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.address-link {
+  color: #434455;
 }
 
 .hero {
