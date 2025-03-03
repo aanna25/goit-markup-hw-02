@@ -18,11 +18,6 @@ body {
   color: #2e2f42;
 }
 
-.address {
-  font-style: normal;
-  color: #434455;
-}
-
 .address-link:hover,
 .address-link:focus {
   color: #404bbf;
@@ -41,7 +36,8 @@ body {
   color: #404bbf;
 }
 
-.contact {
+.contact,
+.address {
   color: #434455;
   font-style: normal;
   line-height: 1.5;
