@@ -86,7 +86,9 @@ body {
 }
 
 .section-title {
-  line-height: 1.5;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -95,6 +97,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-size: 16px;
+  color: #434455;
 }
 
 .section-team {
@@ -109,7 +112,7 @@ body {
   line-height: 1.11;
   text-transform: capitalize;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 36px;
   line-height: 1.2;
   letter-spacing: 0.02;
   color: #2e2f42;
@@ -120,8 +123,12 @@ body {
 }
 
 .section-portfolio {
+  font-size: 36px;
   line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .portfolio-title {
